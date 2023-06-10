@@ -61,6 +61,6 @@ endmodule
 
 ## Result:
 
-Thus the given Boolean functions are implemented in Verilog HDL and the truth table are verified.
+Thus the given Boolean functions are implemented in Verilog HDL and the truth table are verified
 
 
